@@ -1,0 +1,11 @@
+Instructions to run Sender
+
+
+Language choice: Java Version 15 - Tested and working in raptor
+
+Step 1: Load raptor
+Step 2: Access the directory where the files are kept
+Step 3: Type javac *.java to compile all the files
+Step 4: Type sender - -mtu 20 (or any other mtu value) and press enter
+Step 5: Type a message and press enter. You should see the encoded message.
+
